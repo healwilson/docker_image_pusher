@@ -1,1 +1,1 @@
-healwilson/stock-monitor-backend:latest
+healwilson/stock-monitor:latest
