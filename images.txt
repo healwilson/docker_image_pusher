@@ -1,1 +1,2 @@
 healwilson/stock-monitor:latest
+coracoo/noname-game:latest
