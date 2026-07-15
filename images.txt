@@ -1,2 +1,3 @@
 healwilson/stock-monitor:latest
-
+zhulinsen/daily_stock_analysis:latest
+searxng/searxng:latest
